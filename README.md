@@ -1,5 +1,6 @@
 # SteamRouteTool
 A tool for blocking routes in Steam games that use network_config.json
+
 Updated by zaxo7, forked to provide a compiled binary to download.
 
 Note: This will automatically clear any CSGORoutingTool firewall rules upon launch (to save the need to clear those rules in that application).
