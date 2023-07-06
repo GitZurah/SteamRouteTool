@@ -1,5 +1,6 @@
 # SteamRouteTool
 A tool for blocking routes in Steam games that use network_config.json
+Updated by zaxo7, forked to provide a compiled binary to download.
 
 Note: This will automatically clear any CSGORoutingTool firewall rules upon launch (to save the need to clear those rules in that application).
 
@@ -14,9 +15,6 @@ Blocking specific routes for games that use Valve's network_config.json (e.g. Co
 * Clear Rules will clear all firewall rules.
 * Ping Routes will ping all routes and update their values.
 
-## Images
-![Main](https://dev.froody.tech/SteamRouteTool/img/Main.png)
-
 ## Credits
 #### Froody
 Tool creation.
@@ -24,5 +22,5 @@ Tool creation.
 Newtonsoft.Json package, licensed under MIT. https://github.com/JamesNK/Newtonsoft.Json/
 #### Icon
 https://github.com/feathericons/feather#feather
-
-Contact me on Discord for faster help: Froody#5824
+#### zaxo7
+For providing the patch to stop crashing
